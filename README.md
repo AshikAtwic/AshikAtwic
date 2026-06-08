@@ -1,166 +1,18 @@
-# Hi there, I'm Ashik 👋
+# 💫 About Me:
+I am a Python Desktop Application Developer with experience in building real-time monitoring, data visualization, and industrial software solutions. My work focuses on PyQt-based desktop applications, embedded systems, networking, and signal processing.<br><br>I have developed applications involving sonar data analysis, real-time plotting, UDP/TCP communication, sensor monitoring, and embedded display technologies such as TFT, OLED, and E-Paper displays.<br><br>My interests include human-machine interface (HMI) design, scientific instrumentation, industrial automation, embedded systems, and defense-related software applications. I enjoy creating intuitive user interfaces that transform complex data into meaningful insights for operators and engineers.<br><br>Technologies I frequently work with include Python, PyQt5, PyQtGraph, SQLite, ESP32/ESP8266, networking protocols, and real-time data acquisition systems.<br>
 
-### Python Desktop Application Developer | Embedded Systems Enthusiast
 
-I build real-time desktop applications, industrial monitoring systems, embedded interfaces, and data visualization tools using Python and modern UI technologies.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/man_trcq) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Dry_Appointment2731) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashikarashik2019@gmail.com) 
 
----
-
-## 🚀 About Me
-
-* 🐍 Python Desktop Application Developer
-* 🖥️ Specialized in PyQt5 & Real-Time GUI Development
-* 📊 Real-Time Data Acquisition & Visualization
-* 🌐 UDP, TCP/IP & Serial Communication
-* 🔌 Embedded Systems & IoT Development
-* ⚙️ Industrial Control & Monitoring Software
-* 🌊 Sonar Signal Processing & Simulation Applications
-* 🎨 Passionate about Modern UI/UX Design
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=AshikAtwic&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=AshikAtwic&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AshikAtwic&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=AshikAtwic&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Technologies & Tools
-
-### Programming
-
-* Python
-* C
-* C++
-
-### Desktop Development
-
-* PyQt5
-* Qt Designer
-* PyQtGraph
-* QThread
-* OpenGL
-
-### Networking
-
-* UDP Communication
-* TCP/IP Communication
-* Serial Communication
-* Socket Programming
-
-### Embedded Systems
-
-* ESP8266
-* ESP32
-* MPLAB
-* NodeMCU
-* Sensor Integration
-
-### Displays & Interfaces
-
-* LilyGO Displays
-* TFT Displays
-* OLED Displays
-* E-Paper Displays
-* Rotary Encoder Displays
-* Touchscreen Interfaces
-* Embedded GUI Development
-
-### Databases & Storage
-
-* SQLite
-* JSON
-* CSV Data Logging
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* Qt Designer
-* OBS Studio
-
----
-
-## 🌟 Featured Projects
-
-### 🎯 Pumb Laser
-
-Professional laser control and monitoring software featuring:
-
-* Real-time data visualization
-* UDP communication
-* Parameter control
-* Live logging
-* Modern PyQt interface
-
----
-
-### 🌊 LOFAR Trainer
-
-Interactive sonar training and simulation platform featuring:
-
-* Target simulation
-* Signal generation
-* Acoustic visualization
-* Operator controls
-* Real-time analysis
-
----
-
-### 📊 8 Channel Dosimeter UI
-
-Advanced multi-channel monitoring application featuring:
-
-* Multi-channel visualization
-* Live parameter monitoring
-* Modern dashboard interface
-* Data logging and analysis
-
----
-
-### 📈 Vibration Analysis System
-
-Real-time monitoring platform supporting:
-
-* Displacement Monitoring
-* Velocity Monitoring
-* Acceleration Monitoring
-* Fault Simulation
-* Live Graph Visualization
-
----
-
-## 💡 Areas of Interest
-
-* Real-Time Systems
-* Industrial Automation
-* Scientific Instrumentation
-* Signal Processing
-* Sonar Systems
-* Embedded Displays
-* Human Machine Interfaces (HMI)
-* Modern UI/UX Design
-* Data Visualization
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshikAtwic\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshikAtwic\&layout=compact)
-
----
-
-## 🎯 Current Focus
-
-* Advanced PyQt Development
-* Modern Industrial User Interfaces
-* Real-Time Data Visualization
-* Embedded Display Systems
-* Sonar Training Applications
-* Scientific Instrumentation Software
-
----
-
-## 📫 Connect With Me
-ashikarashik2019@gmail.com
-
----
-
-### "Building Real-Time Software That Connects Data, Hardware, and People."
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
