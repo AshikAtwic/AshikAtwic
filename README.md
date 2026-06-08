@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Ashik 👋
 
-<!--
-**AshikAtwic/AshikAtwic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Desktop Application Developer
 
-Here are some ideas to get you started:
+🚀 Specializing in:
+- PyQt5 / PySide6
+- Real-Time Data Visualization
+- UDP & Serial Communication
+- Industrial Control Software
+- Embedded Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### 🎯 Pumb Laser
+Real-time laser control software with live monitoring and plotting.
+
+### 📊 8 Channel Dosimeter UI
+Multi-channel radiation monitoring interface built with PyQt5.
+
+### 🌊 LOFAR Trainer
+Sonar signal simulation and training platform.
+
+## Technologies
+
+Python | PyQt5 | PyQtGraph | SQLite | Git | ESP8266 | MPLAB
+
+## Contact
+
+📧 your-email
