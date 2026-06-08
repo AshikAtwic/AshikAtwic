@@ -26,4 +26,4 @@ Python | PyQt5 | PyQtGraph | SQLite | Git | ESP8266 | MPLAB
 
 ## Contact
 
-📧 your-email
+📧 ashikarashik2019@gmail.com
