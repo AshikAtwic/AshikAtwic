@@ -46,4 +46,9 @@ I am a Python Desktop Application Developer with experience in building real-tim
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
 </div>
 
+###
+
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnVzaDA1N21zYjJ0cDRoem05ODVyejFiYW1mbTJiaDUyZWZyMmQ4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7aSjHisO2jt84Cc/giphy.gif)"  />
+
+###
 
