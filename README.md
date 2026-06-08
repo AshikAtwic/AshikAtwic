@@ -46,15 +46,4 @@ I am a Python Desktop Application Developer with experience in building real-tim
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
 </div>
 
-###
 
-<div align="left">
-  <a href="https://www.instagram.com/___mantrcq__" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=CB377E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="ashikarshik2019@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
-###
