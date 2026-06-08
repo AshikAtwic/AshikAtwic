@@ -48,7 +48,7 @@ I am a Python Desktop Application Developer with experience in building real-tim
 
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnVzaDA1N21zYjJ0cDRoem05ODVyejFiYW1mbTJiaDUyZWZyMmQ4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7aSjHisO2jt84Cc/giphy.gif)"  />
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTlrZG01aTVlMmg1N3JwbjB2Z2NsdnNuYm1xNGl6cmYyNDhzdG1rZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FILQJbm0u832ry0HFT/giphy.gif"  />
 
 ###
 
